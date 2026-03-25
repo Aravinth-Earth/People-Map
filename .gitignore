@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.pydeps/
+.npm-cache/
+node_modules/
+dist/
+*.tsbuildinfo
+data/
+logs/
